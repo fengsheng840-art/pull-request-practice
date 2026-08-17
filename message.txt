@@ -1,1 +1,2 @@
 你好，GitHub！
+这是我通过 Pull Request 添加的第一条练习内容。
